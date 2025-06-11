@@ -1,4 +1,4 @@
-<h1 style="color:red;">## 🦁 About Me:</h1>
+# <h1 style="color:red;"> 🦁 About Me:</h1>
 <p style="color:red;">🔭 I’m currently working on Sandook</p>
 <p style="color:red;">🌱 I’m currently learning Machine Learning, App Development</p>
 <p style="color:red;">💬 Ask me about React, C++, C</p>
