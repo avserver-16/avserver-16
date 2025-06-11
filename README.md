@@ -1,5 +1,7 @@
 
-<img src="Avish Shetty.png" width="200" />
+<p align="center">
+  <img src="Profile.png" width="400" />
+</p>
 
 # <h1 style="color:red;"> 🦁 About Me:</h1>
 <p style="color:red;">🔭 I’m currently working on Sandook-Your Digital LinkMark</p>
