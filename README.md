@@ -1,3 +1,6 @@
+
+<img src="Avish Shetty.png" width="200" />
+
 # <h1 style="color:red;"> 🦁 About Me:</h1>
 <p style="color:red;">🔭 I’m currently working on Sandook-Your Digital LinkMark</p>
 <p style="color:red;">🌱 I’m currently exploring Machine Learning and App Development</p>
