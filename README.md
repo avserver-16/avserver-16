@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦁 About Me:
 🔭 I’m currently working on Sandook<br>🌱 I’m currently learning Machine Learning, App Development<br>💬 Ask me about React, C++,C<br>📫 How to reach me avish.vijay2021@gmail.com<br>⚡ Fun fact I think I am good at acting and story formation
 
 
