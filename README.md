@@ -1,6 +1,6 @@
 # <h1 style="color:red;"> 🦁 About Me:</h1>
-<p style="color:red;">🔭 I’m currently working on Sandook</p>
-<p style="color:red;">🌱 I’m currently learning Machine Learning, App Development</p>
+<p style="color:red;">🔭 I’m currently working on Sandook-Your Digital LinkMark</p>
+<p style="color:red;">🌱 I’m currently exploring Machine Learning and App Development</p>
 <p style="color:red;">💬 Ask me about React, C++, C</p>
 <p style="color:red;">📫 How to reach me: avish.vijay2021@gmail.com</p>
 <p style="color:red;">⚡ Fun fact: I think I am good at acting and story formation</p>
