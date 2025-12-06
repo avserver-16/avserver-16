@@ -2,7 +2,8 @@
 <p align="center">
   <img src="Profile.png" width="400" />
 </p>
-
+<img src="https://raw.githubusercontent.com/avserver-16/avserver-16/output/snake.svg" alt="Snake animation" />
+###
 # <h1 style="color:red;"> 🦁 About Me:</h1>
 <p style="color:red;">🔭 I’m currently working on Sandook-Your Digital LinkMark</p>
 <p style="color:red;">🌱 I’m currently exploring Machine Learning and App Development</p>
