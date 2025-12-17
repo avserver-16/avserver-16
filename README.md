@@ -18,6 +18,6 @@
 
 # 📊 GitHub Stats:
 ![Avish's GitHub stats](https://github-readme-stats.vercel.app/api?username=avserver-16&show_icons=true&theme=transparent)
-![](https://nirzak-streak-stats.vercel.app/?user=avserver-16&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avserver-16&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=avserver-16&theme=shadow_blue&hide_border=false)
 
