@@ -3,7 +3,7 @@
   <img src="Profile.png" width="400" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&vCenter=true&width=700&lines=Let+my+work+speak+for+itself." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&center=true&vCenter=true&width=700&lines=I+let+my+work+speak+for+itself." />
 </p>
 <h1 style="color:red;">About Me</h1> <p style="color:red;"> I am a developer with a strong interest in building reliable, user-focused applications. I’m currently working on <b>Valura AI</b>, where I focus on transforming ideas into scalable and maintainable solutions. My learning journey is centered around <b>system design</b> and <b>application development</b>. </p> <p style="color:red;"> I primarily work with <b>React</b>, <b>C++</b>, and I enjoy solving complex problems by breaking them down into simple, logical components.</p> <p style="color:red;"> Alongside technical skills, I bring a creative mindset shaped by experience in storytelling and stage performance. This helps me approach development with a strong sense of flow, communication, and user experience. </p> <p style="color:red;"><b>Contact:</b> <a href="mailto:avish.vijay2021@gmail.com">avish.vijay2021@gmail.com</a> </p>
 <br/>
